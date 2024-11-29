@@ -9,4 +9,4 @@
 
 - I am interested in low level programming, AI, and Algorithms.
 
-- Fun fact: I like working out and gaming
+- Fun fact: I like working out

@@ -1,7 +1,9 @@
 ### Hi there 👋
-- My name is **Chirayu**. I am in my 2nd year of Bachelor of General Science, majoring in computer science at University of Alberta.
+- My name is **Chirayu**. I am a Bachelor of Science student, majoring in Computing Science and minoring in Econmics at University of Alberta.
 
-- I'm currently working on an inclusive courier web application, working with API's and multiple Databases. I am also working on a POS application for windows in .NET framework while utilizing WPF. 
+- I'm currently working on an inclusive courier web application, working with multiple API's and multiple Databases. I am also working on a POS application for windows in .NET framework while utilizing WPF.
+
+- I am also running a business called (Versatile Techno)[https://www.versatiletechno.ca]. 
 
 - How to reach me: Email -> cshah1@ualberta.ca
 

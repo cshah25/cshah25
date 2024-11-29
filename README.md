@@ -3,7 +3,7 @@
 
 - I'm currently working on an inclusive courier web application, working with multiple API's and multiple Databases. I am also working on a POS application for windows in .NET framework while utilizing WPF.
 
-- I am also running a business called [Versatile Techno](https://www.versatiletechno.ca). 
+- I am also running a business called [Versatile Techno](https://versatiletechno.ca/). 
 
 - How to reach me: Email -> cshah1@ualberta.ca
 

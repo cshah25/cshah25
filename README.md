@@ -62,8 +62,8 @@
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://https://www.microsoft.com/en-ca/sql-server/sql-server-2022/" target="_blank" rel="noreferrer"> <img
-      src="      https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>
+      src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+      alt="SQL Server" width="40" height="40" /> </a>
 <br>
 
 <h3>Statistical Data :-</h3>

@@ -68,6 +68,23 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
             <a href="https://https://www.microsoft.com/en-ca/sql-server/sql-server-2022/" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40" /> </a>
+            <a href = "https://www.jetbrains.com/pycharm" target = "_blank"> 
+                        <img src = "https://img.icons8.com/color/344/pycharm.png" alt="pycharm" width="40" height="40"/> </a>
+            <a href = "https://www.microsoft.com/en-in/microsoft-365/word" target = "_blank"> 
+                        <img src = "https://img.icons8.com/color/344/microsoft-word-2019--v2.png" alt="msword" width="40" height="40"/> </a>
+            <a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target = "_blank"> 
+                        <img src = "https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" alt="msexcel" width="40" height="40"/> </a>
+            <a href = "https://www.microsoft.com/en-in/microsoft-365/powerpoint" target = "_blank">
+                          <img src = "https://img.icons8.com/color/344/microsoft-powerpoint-2019--v1.png" alt="mspowerpoint" width="40" height="40"/> </a>
+            <a href = "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" target = "_blank">
+                          <img src = "https://img.icons8.com/color/344/microsoft-onenote-2019.png" alt="msonenote" width="40" height="40"/> </a>
+            <a href="https://www.figma.com" target="_blank">
+                        <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40" height="40"/> </a>
+            <a href="https://www.docker.com/" target="_blank"> 
+                        <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" width="40" height="40"/> </a>
+            <a href="https://firebase.google.com/" target="_blank">
+                        <img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" alt="powerbi" width="40" height="40"/> </a>
+
 <br>
 
 <h3>Statistical Data :-</h3>
@@ -85,3 +102,4 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cshah25&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+

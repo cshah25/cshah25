@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chirayushah61@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- The best part about living is coffee ☕.
 
 <br>
 

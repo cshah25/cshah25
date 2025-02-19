@@ -9,7 +9,7 @@
             width:500px;
             height: auto;"/></p>
 
-- 🌱 I'm currently learning ReactJS on my free time and other programming languages such as Assembly
+- 🌱 I'm currently learning ReactJS on my free time and other low level programming languages such as Assembly
 
 - 📫 How to reach me **chirayushah61@gmail.com**
 

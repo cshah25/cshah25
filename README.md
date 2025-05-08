@@ -89,17 +89,18 @@
 
 <h3>Statistical Data :-</h3>
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cshah25&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+<p>
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cshah25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
     alt="chirayu-shah" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cshah25&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cshah25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
     alt="chirayu-shah" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cshah25&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="chirayu-shah" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=cshah25&theme=tokyonight&hide_border=true" alt="chirayu-shah" /></p>
 

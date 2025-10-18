@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chirayushah61@gmail.com**
 
-- ⚡ Fun fact :- The best part about coding is coffee ☕.
+- ⚡ Portfolio :- [https://chirayu.uofacs.ca](https://chirayu.uofacs.ca) ☕.
 
 <br>
 

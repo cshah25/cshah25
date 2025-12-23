@@ -5,10 +5,6 @@
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<p><img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxemhrNGZibDNlbjh4c3J3aXFnMHVwZDRjMGh4YnZrZmw3OTlnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Pengu Gif" style="
-            width:300px;
-            height: auto;"/></p>
-
 - 🌱 I'm currently learning ReactJS on my free time and other low level programming languages such as Assembly
 
 - 📫 How to reach me **chirayushah61@gmail.com**
@@ -87,20 +83,15 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-
 <p>
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cshah25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
     alt="chirayu-shah" 
     bg_color=#808080/></p>
-
+<!--
 <br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cshah25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
     alt="chirayu-shah" /></p>
-
 <br>
-
 <p><img align="center" src="https://streak-stats.demolab.com?user=cshah25&theme=tokyonight&hide_border=true" alt="chirayu-shah" /></p>
-
+-->

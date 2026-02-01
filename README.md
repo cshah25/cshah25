@@ -5,7 +5,7 @@
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-- 🌱 I'm currently learning ReactJS on my free time and other low level programming languages such as Assembly
+- 🌱 I'm currently learning React Native & ExpressJS on my free time
 
 - 📫 How to reach me **chirayushah61@gmail.com**
 

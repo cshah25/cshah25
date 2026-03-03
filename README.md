@@ -19,49 +19,20 @@ I treat the entire application lifecycle as a single cohesive unit. I ensure tha
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/chirayu-shah-aug/" target="blank">
-             <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="Linkedin link" height="30" width="40" /></a>
-  <a href="https://github.com/cshah25" target="blank">
-             <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github link" height="30" width="40" /></a>
-  <a href="https://discord.com/users/422815658150068226" target="blank">
-             <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord: Rayu_." height=30" width="40"></a>
+  <a href="https://www.linkedin.com/in/chirayu-shah-aug/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="Linkedin link" height="30" width="40" /></a>
+  <a href="https://github.com/cshah25" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github link" height="30" width="40" /></a>
+  <a href="https://discord.com/users/422815658150068226" target="blank"><img  align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord: Rayu_." height=30" width="40"></a>
 </p>
 
 <br>
 
-## Languages and Tools:
-            
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
-<a href = "https://www.vim.org/" target = "_blank"><img src = "https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/vim.svg" alt="vim" width="40"  height="40"/></a>
-<a href = "https://www.neovim.io/" target = "_blank"><img src = "https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/neovim/neovim-original.svg" alt="vim" width="40"  height="40"/></a>
-<a href = "https://wingware.com/" target = "_blank"><img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" alt="wing" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="dotnet" width="40" height="40"/></a>
-<a href = "https://en.wikipedia.org/wiki/C_(programming_language)" target = "_blank"><img src = "https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/c.svg" alt = "C#" width = "40" height = "40"/></a>
-<a href = "https://en.wikipedia.org/wiki/C%2B%2B" target = "_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/960px-ISO_C%2B%2B_Logo.svg.png" alt = "C#" width = "40" height = "40"/></a>
-<a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target = "_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt = "C#" width = "40" height = "40"/></a>
-<a href = "https://git-scm.com" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-<a href="https://https://www.microsoft.com/en-ca/sql-server/sql-server-2022/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40" /></a>
-<a href = "https://www.jetbrains.com/pycharm" target = "_blank"><img src = "https://img.icons8.com/color/344/pycharm.png" alt="pycharm" width="40" height="40"/></a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/word" target = "_blank"><img src = "https://img.icons8.com/color/344/microsoft-word-2019--v2.png" alt="msword" width="40" height="40"/></a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/excel" target = "_blank"><img src = "https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" alt="msexcel" width="40" height="40"/></a>
-<a href = "https://www.microsoft.com/en-in/microsoft-365/powerpoint" target = "_blank"><img src = "https://img.icons8.com/color/344/microsoft-powerpoint-2019--v1.png" alt="mspowerpoint" width="40" height="40"/></a>
-<a href = "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app" target = "_blank"><img src = "https://img.icons8.com/color/344/microsoft-onenote-2019.png" alt="msonenote" width="40" height="40"/></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" alt="powerbi" width="40" height="40"/></a>
+## Skills:
 
-<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,rust,go,ruby,swift,php,kotlin,dart,r,lua,julia,nim,godot,git,github,gitlab,vscode,vim,neovim,postman,notion,obsidian,bash,powershell,react,vue,angular,nextjs,tailwind,bootstrap,materialui,css,html,figma,photoshop,illustrator,nodejs,express,django,flask,fastapi,rails,md,postgres,mongodb,mysql,redis,sqlite,cassandra,dynamodb,supabase,firebase,docker,githubactions,aws,azure,gcp,heroku,vercel,netlify,cloudflare,nginx,linux&perline=11" />
+  </a>
+</p>
 
 <!-- <p>
 <img align="center"

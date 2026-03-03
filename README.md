@@ -34,6 +34,13 @@ I treat the entire application lifecycle as a single cohesive unit. I ensure tha
   </a>
 </p>
 
+## Github Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cshah25&custom_title=Some%20not%20so%20useful%20stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=cshah25&custom_title=Some%20not%20so%20useful%20stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?custom_title=Langs%20I%20use%20ever%20so%20often&username=cshah25&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=cshah25&layout=compact&langs_count=4&theme=dark)
+
 <!-- <p>
 <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cshah25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
